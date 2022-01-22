@@ -10,7 +10,7 @@ public class LeftTriangleStar
 			}
 			for (j=0; j<=i; j++) //inner loop for columns
 			{
-				System.out.print("* "); //print star
+				System.out.print(j+" " ); //print star
 			}
 			System.out.println(); //ending line after each row
 		}

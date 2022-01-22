@@ -16,7 +16,7 @@ public class RightTriangleStarPattern {
 	}
 	public static void main(String args[])
 	{
-		int k = 4;
+		int k = 5;
 		StarRightTriangle (k);
 	}
 }
